@@ -2,5 +2,5 @@
 ## Basic python coding
 #### read this first for the basic coding to be done with python
 
-[![image](https://user-images.githubusercontent.com/77041357/103737509-51bca500-502d-11eb-86a6-e626f131afdd.png)]
-![image](https://user-images.githubusercontent.com/77041357/103737509-51bca500-502d-11eb-86a6-e626f131afdd.png)
+![sunset at Marina Bay]{https://upload.wikimedia.org/wikipedia/commons/1/11/Marina_Bay%2C_Singapore%2C_at_sunset_-_20140707.jpg}
+
